@@ -3,5 +3,6 @@
     <pages>
         <page name='BinarySearch'/>
         <page name='JustTestSwift'/>
+        <page name='Inheritance'/>
     </pages>
 </playground>
